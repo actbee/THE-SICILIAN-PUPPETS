@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+# THE SICILIAN PUPPETS
 
-You can use the [editor on GitHub](https://github.com/actbee/THE-SICILIAN-PUPPETS/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+## About
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This is a design histroy research project which aims to summarize the development of sicilian puppets.
+In short, the sicilian puppets and its theatre arts, which begin from 1500s in the period of Renaissance
+at Italy and continues to our modern life,  are now the intangible cultural heritage. It was the preeminet
+form of cultural expression for working-class southern Italians and Sicilians, yet its subject matter was 
+nothing less than the masterpieces of medieval and Renaissance chivalric literature.  
 
-### Markdown
+In this project I studied the form, the materials, the structure, the craft and the function of the sicilian puppets.
+Then the theatre arts of sicilian puppets together with the ordinary culture and society background of the puppet show are 
+also studied. A comparision with the Japanese Ningyo Johruri Bunraku Puppet Theatre has been made and the project ends with discussions of 
+the puppet show's nowadays situation and possible future.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+You can find the Chinese report of this project [here](https://github.com/actbee/THE-SICILIAN-PUPPETS/blob/main/documents/report.pdf).
 
-```markdown
-Syntax highlighted code block
+You can find detailed H5 animation of this project through scaning the QR code below. You can also open this
+[link](https://file729558dea74c.iamh5.cn/v3/idea/BPoSu3jA) to see the whole project.
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/actbee/THE-SICILIAN-PUPPETS/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+![scan](https://github.com/actbee/THE-SICILIAN-PUPPETS/blob/main/documents/cover.png?raw=true)
